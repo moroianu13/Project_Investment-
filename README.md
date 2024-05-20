@@ -1,0 +1,2 @@
+# Investment Analysis of Emerging Markets
+## This project aims to analyze and compare the investment potential of various emerging markets, balancing the expected returns and associated risks. By evaluating the future value of a €10,000 investment over a period of 5 years and considering credit ratings as risk indicators, we provide insights into the best investment choices among emerging countries.
